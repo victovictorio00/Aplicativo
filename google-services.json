@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1040627294156",
+    "project_id": "alertaemergencia2-efba9",
+    "storage_bucket": "alertaemergencia2-efba9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040627294156:android:1d8d8a6f01322602638769",
+        "android_client_info": {
+          "package_name": "com.example.alertaemergencia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0n4LACVScTtGrLPeWKcykFYD7iBLeZ4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
